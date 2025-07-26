@@ -101,7 +101,7 @@ You can use [**IFTTT Webhooks**](https://ifttt.com/maker_webhooks) or any SMTP m
 
 ## 📸 Images / Video (Optional)
 
-> *(Add images or demo video of your project in action)*
+(https://youtu.be/mLNk6Z8TWc8)
 
 ---
 
@@ -113,17 +113,7 @@ You can use [**IFTTT Webhooks**](https://ifttt.com/maker_webhooks) or any SMTP m
 
 ---
 
-## 🧑‍💻 Author
 
-**Your Name**  
-📧 Email: [your-email@example.com]  
-🌐 GitHub: [github.com/yourusername]
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
