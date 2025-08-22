@@ -61,6 +61,8 @@ This project is designed to enhance safety in environments where Liquefied Petro
 ---
 
 ## 📤 Email Notification Setup
+![gas email screenshot](https://github.com/user-attachments/assets/9c422da6-d07f-425f-8f02-7e4f15f33406)
+
 
 You can use [**IFTTT Webhooks**](https://ifttt.com/maker_webhooks) or any SMTP method to send email alerts. The ESP32 triggers the Webhook URL when gas is detected.
 
